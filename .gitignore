@@ -1,0 +1,6 @@
+# 🤫 secret stuff – don't upload these
+token.pkl
+credentials.json
+
+# 🧠 ignore Python cache
+__pycache__/
