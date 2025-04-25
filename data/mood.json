@@ -1,0 +1,18 @@
+[
+    {
+      "day": "Monday",
+      "mood": "sadness",   
+      "energy": "high"
+    },
+    {
+      "day": "Sunday",
+      "mood": "joy",
+      "energy": "high"
+    },
+    {
+      "day": "Friday",
+      "mood": "anger",
+      "energy": "low"
+    }
+  ]
+  
