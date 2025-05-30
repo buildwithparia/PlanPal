@@ -147,3 +147,8 @@ I added a `.gitignore` file to make sure `credentials.json` and `token.pkl` (Goo
 If you're using this project yourself, make sure you protect your own keys too.
 
 ---
+
+## 📘 License
+
+Released under the [MIT License](./LICENSE).  
+Because good ideas deserve to be shared — kindly, openly, and with just a little bit of magic ✨
